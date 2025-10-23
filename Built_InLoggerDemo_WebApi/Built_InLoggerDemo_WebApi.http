@@ -1,0 +1,6 @@
+@Built_InLoggerDemo_WebApi_HostAddress = http://localhost:5263
+
+GET {{Built_InLoggerDemo_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
